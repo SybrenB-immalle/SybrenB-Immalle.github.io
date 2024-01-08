@@ -25,6 +25,7 @@ nav
     padding: 10px;
     border-bottom: solid;
     border-width: 3px;
+    border-color: #323332;
     box-sizing: border-box;
 }
 
@@ -42,14 +43,13 @@ nav ul li:hover
 {
     border-radius: 18px 18px 18px 18px;
     background-color: #1B96CF;
-    color: white;
 }
 
 
 nav ul li a
 {
     text-decoration: none;
-    color: black;
+    color: #323332;
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
     font-weight: bold;
