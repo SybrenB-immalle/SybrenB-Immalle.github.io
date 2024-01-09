@@ -62,7 +62,7 @@ nav ul
     margin-left: 15%;
 }
 
-article.contact
+article.Dagen
 {
     max-width: 800px;
     margin: 20px auto;
@@ -79,26 +79,26 @@ h1, h3, p
     text-decoration: none;
 }
 
-section.contact
+section.Dagen
 {
     margin-bottom: 30px;
 }
 
-h1
+h1.Dagen
 {
     color: #323332;
     font-size: 40px;
     margin-bottom: 10px;
 }
 
-h3
+h3.Dagen
 {
     color: #323332;
     font-size: 29px;
     margin-top: 15px;
 }
 
-p
+p.Dagen
 {
     color: #fff;
     margin: 8px 0;
