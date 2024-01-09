@@ -62,7 +62,7 @@ nav ul
     margin-left: 15%;
 }
 
-article
+article.contact
 {
     max-width: 800px;
     margin: 20px auto;
@@ -79,7 +79,7 @@ h1, h3, p
     text-decoration: none;
 }
 
-section
+section.contact
 {
     margin-bottom: 30px;
 }
