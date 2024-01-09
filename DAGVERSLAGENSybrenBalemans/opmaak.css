@@ -22,6 +22,7 @@ nav
     display: flex;
     align-items: center;
     margin-left: auto;
+    margin-right: auto;
     padding: 10px;
     border-bottom: solid;
     border-width: 3px;
@@ -65,8 +66,12 @@ nav ul
 article.Dagen
 {
     max-width: 800px;
-    margin: 20px auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
     padding: 20px;
+    margin-bottom: 20px;
     background-color: #1B96CF;
     border-radius: 8px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
@@ -112,4 +117,25 @@ iframe
     border-width: 2px;
     border-color: #323332;
     border-radius: 8px;
+}
+
+footer
+{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    padding: 10px;
+    border-top: solid;
+    margin-top: 40px;
+    border-width: 3px;
+    border-color: #323332;
+    box-sizing: border-box;
+}
+
+p.Footer
+{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
 }
