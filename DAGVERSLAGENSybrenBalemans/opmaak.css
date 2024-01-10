@@ -76,7 +76,6 @@ article.Dagen
     margin-top: 20px;
     margin-bottom: 20px;
     padding: 20px;
-    margin-bottom: 20px;
     background-color: #1B96CF;
     border-radius: 8px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
@@ -89,9 +88,9 @@ h1, h3, p
     text-decoration: none;
 }
 
-section.Dagen
+section.Home
 {
-    margin-bottom: 30px;
+    margin-bottom: 200px;
 }
 
 h1.Dagen
@@ -110,8 +109,13 @@ h3.Dagen
 
 p.Dagen
 {
+    margin: 0;
     color: #fff;
     margin: 8px 0;
+    margin-right: 20px;
+    width: 50%;
+    float: left;
+    position: relative;
 }
 
 iframe
@@ -149,7 +153,13 @@ img.Dagen
 {
     display: flex;
     float: right;
-    margin-left: auto;
     border-radius: 12px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
 }
+
+div.Dagen
+{
+    display: flex;
+    flex: auto;
+}
+
