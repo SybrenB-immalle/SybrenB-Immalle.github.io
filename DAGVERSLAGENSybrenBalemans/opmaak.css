@@ -90,10 +90,15 @@ h1, h3, p
 
 section.Home
 {
-    margin-bottom: 200px;
+    margin-bottom: 20px;
 }
 
 section.Dag1
+{
+    margin-bottom: 20px;
+}
+
+section.Dag2
 {
     margin-bottom: 20px;
 }
