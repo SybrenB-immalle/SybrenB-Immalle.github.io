@@ -96,17 +96,7 @@ h3.Contact
     margin-right: 500px;
 }
 
-section.Home
-{
-    margin-bottom: 20px;
-}
-
-section.Dag1
-{
-    margin-bottom: 20px;
-}
-
-section.Dag2
+section.Home, section.Dag1, section.Dag2
 {
     margin-bottom: 20px;
 }
