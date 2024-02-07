@@ -81,11 +81,19 @@ article.Dagen
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
 }
 
-h1, h3, p
+h1, p
 {
     margin: 0;
     padding: 0;
     text-decoration: none;
+}
+
+h3.Contact
+{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    margin-right: 500px;
 }
 
 section.Home
@@ -107,6 +115,7 @@ section.Dag5
 {
     margin-bottom: 280px;
 }
+
 
 h1.Dagen
 {
